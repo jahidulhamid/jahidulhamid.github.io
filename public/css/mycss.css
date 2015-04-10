@@ -373,6 +373,7 @@ div .social a.line{
 	z-index: 2;
 	font-size: 1.5em;
 	font-weight: bold;
+	outline: 0;
 	
 }
 
