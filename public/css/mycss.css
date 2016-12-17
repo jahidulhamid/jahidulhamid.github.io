@@ -1,6 +1,6 @@
 html {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 16px;
+	font-size: 12px;
 	line-height: 1.5;
 }
 img {
@@ -28,6 +28,7 @@ body {
 }
 p {
 	font-family: "PT Serif",Georgia,"Times New Roman",serif;
+	
 }
 
 /* main page */
@@ -371,7 +372,7 @@ div .social a.line{
 	background-color: #66A2D9;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	z-index: 2;
-	font-size: 1.5em;
+	font-size: 1.25em;
 	font-weight: bold;
 	outline: 0;
 	
